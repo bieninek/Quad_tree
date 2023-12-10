@@ -18,7 +18,7 @@ Method and class definitions in four files. Main.cpp is just an entry point in t
 Content of the quad_tree.cpp file – definition of the function that generates points that are the ends of lines, creating rectangles on the graphic and saving the coordinates of these points to a .txt file
 The input includes two vertices of the rectangle - the upper left one and the lower right one, and the image on which it is drawn.The function works recursively - each call calls four more...  
 The bottom line of recursion is appropriately small dimensions of the slice, rigidly set in the program.
-### Output
-Other otput files for quad tree:  
+## Output
+Other output files for quad tree:  
 ![](/image/1.jpg )  
 ![](/image/2.jpg )  
